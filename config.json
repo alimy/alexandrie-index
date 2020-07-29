@@ -1,5 +1,5 @@
 {
-    "dl": "https://crates.polomack.eu/api/v1/crates/{crate}/{version}/download",
-    "api": "https://crates.polomack.eu",
-    "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://github.com/Hirevo/alexandrie-index"]
+    "dl": "https://crates.dnpkg.com/api/v1/crates/{crate}/{version}/download",
+    "api": "https://crates.dnpkg.com",
+    "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://github.com/alimy/alexandrie-index"]
 }
